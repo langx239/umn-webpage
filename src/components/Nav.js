@@ -15,7 +15,11 @@ const Nav = ({ updateYear, years }) => (
     <div style={{ margin: '0 auto', maxWidth: 960 }}>
       <NavbarGroup>
         <img src={logo} alt="logo" style={{ height: 20, marginRight: 5 }} />
-        <NavbarHeading>University of Minnesota PhD Student Information System</NavbarHeading>
+        <NavbarHeading>
+          Chinese PhD Student Information System
+          {' '}
+          <small>- School of Statistics, University of Minnesota</small>
+        </NavbarHeading>
       </NavbarGroup>
       <NavbarGroup align="right">
         <Popover content={<YearMenu updateYear={updateYear} years={years} />} position={Position.BOTTOM}>
