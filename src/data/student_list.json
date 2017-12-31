@@ -1,0 +1,159 @@
+{
+  "data": [
+    [
+      "Year",
+      "Name",
+      "Advisor",
+      "Undergrad School",
+      "Contact"
+    ],
+    [
+      "1",
+      "Rui Wang",
+      "",
+      "USTC",
+      "wang7493@umn.edu"
+    ],
+    [
+      "1",
+      "Yang Song",
+      "",
+      "Tsinghua University",
+      "song0214@umn.edu"
+    ],
+    [
+      "1",
+      "Chunlin Li",
+      "",
+      "Peking University",
+      "li000007@umn.edu"
+    ],
+    [
+      "2",
+      "Haoran Xue",
+      "Xiaotong Shen",
+      "USTC",
+      "xuexx268@umn.edu"
+    ],
+    [
+      "2",
+      "Le Zhou",
+      "Hui Zou",
+      "Tsinghua University",
+      "zhoul@umn.edu"
+    ],
+    [
+      "2",
+      "Mingyang Liu",
+      "Xiaotong Shen",
+      "Peking University",
+      "liux3941@umn.edu"
+    ],
+    [
+      "2",
+      "Wenjing Yang",
+      "Yuhong Yang",
+      "University of Minnesota",
+      "Yang2987@umn.edu"
+    ],
+    [
+      "2",
+      "Ziyue Zhu",
+      "",
+      "Tsinghua University",
+      "zhux0502@umn.edu"
+    ],
+    [
+      "3",
+      "Bingxin Zhao",
+      "Yuhong Yang",
+      "Harbin Institute of Technology",
+      ""
+    ],
+    [
+      "3",
+      "Guangwei Weng",
+      "Charles Doss",
+      "Fudan University",
+      "wengx076@umn.edu"
+    ],
+    [
+      "3",
+      "Jiawei Zhang",
+      "Yuhong Yang",
+      "Shanghai University of Finance Economics",
+      "zhan4362@umn.edu"
+    ],
+    [
+      "3",
+      "Wenjun Lang",
+      "Hui Zou",
+      "Nankai University",
+      "langx239@umn.edu"
+    ],
+    [
+      "3",
+      "Yiyi Yin",
+      "Hui Zou",
+      "Nankai University",
+      "yinxx307@umn.edu"
+    ],
+    [
+      "3",
+      "Yunan Wu",
+      "Lan Wang",
+      "Tsinghua University",
+      "wuxx1375@umn.edu"
+    ],
+    [
+      "4",
+      "Chenglong Ye",
+      "Yuhong Yang",
+      "USTC",
+      "yexxx323@umn.edu"
+    ],
+    [
+      "4",
+      "Kaibo Gong",
+      "Snigdhansu Chatterjee",
+      "Shanghai Jiao Tong University",
+      "gongx149@umn.edu"
+    ],
+    [
+      "4",
+      "Si Peng",
+      "Xiaotong Shen",
+      "Tsinghua University",
+      "pengx179@umn.edu"
+    ],
+    [
+      "5",
+      "Boxiang Wang",
+      "Hui Zou",
+      "Nankai University",
+      "boxiang@umn.edu"
+    ],
+    [
+      "5",
+      "Ding Xiang",
+      "Galin Jones",
+      "Beijing Normal University",
+      "xiang045@umn.edu"
+    ],
+    [
+      "5",
+      "Xuetong Sun",
+      "Snigdhansu Chatterjee",
+      "Wuhan University",
+      "sunx0199@umn.edu"
+    ]
+  ],
+  "errors": [],
+  "meta": {
+    "delimiter": ",",
+    "linebreak": "\r\n",
+    "aborted": false,
+    "truncated": false,
+    "cursor": 1240
+  }
+}
