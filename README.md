@@ -20,6 +20,14 @@ yarn start
 
 The website should be running at your http://localhost:3000.
 
+## How to publish to Github Pages
+
+Update `homepage` field in `package.json` to your designated URL, then:
+
+```
+yarn run deploy
+```
+
 ## How to make changes to student data
 
 Export CSV from your Google Sheet / Excel Worksheet to `./src/data/student_list.csv`. Then:

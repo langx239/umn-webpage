@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^1.35.0",
+    "gh-pages": "^1.1.0",
     "papaparse": "^4.3.6",
     "react": "^16.2.0",
     "react-addons-css-transition-group": "^15.6.2",
@@ -11,10 +12,13 @@
     "react-scripts": "1.0.17"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "parse-csv": "node src/csv-to-json.js"
-  }
+  },
+  "homepage": "https://blakegong.github.io/umn-phd-info-system"
 }
