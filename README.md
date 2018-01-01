@@ -15,6 +15,7 @@ brew install yarn
 
 Then just run:
 ```
+yarn
 yarn start
 ```
 
