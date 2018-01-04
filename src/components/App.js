@@ -23,7 +23,7 @@ class App extends Component {
             <StudentTable dataList={dataList} year={this.state.year} />
           </div>
           <div style={{ textAlign: 'center' }}>
-            Disclaimer:
+            Disclaimer: This page is maintained by Chinese students. The only purpose of this page is to help the communications among students. For any questions, please contact langx239@umn.edu
           </div>
         </div>
       </div>

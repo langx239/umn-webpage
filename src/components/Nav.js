@@ -15,7 +15,6 @@ const Nav = ({ updateYear, years }) => (
         <NavbarHeading>
           Chinese PhD Student Information System
           {' '}
-          <small>- School of Statistics, University of Minnesota</small>
         </NavbarHeading>
       </NavbarGroup>
       <NavbarGroup align="right">
