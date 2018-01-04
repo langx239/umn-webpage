@@ -22,6 +22,9 @@ class App extends Component {
           <div style={{ marginTop: 50 }}>
             <StudentTable dataList={dataList} year={this.state.year} />
           </div>
+          <div style={{ textAlign: 'center' }}>
+            Disclaimer:
+          </div>
         </div>
       </div>
     );

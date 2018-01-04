@@ -1,8 +1,6 @@
 import React from 'react';
 import { Button, Menu, MenuItem, Navbar, NavbarGroup, NavbarHeading, Popover, Position } from '@blueprintjs/core';
 
-import logo from '../images/logo.png';
-
 const YearMenu = ({ updateYear, years }) => (
   <Menu>
     <MenuItem onClick={() => updateYear(undefined)} text="All years" />
@@ -14,7 +12,6 @@ const Nav = ({ updateYear, years }) => (
   <Navbar className="pt-fixed-top">
     <div style={{ margin: '0 auto', maxWidth: 960 }}>
       <NavbarGroup>
-        <img src={logo} alt="logo" style={{ height: 20, marginRight: 5 }} />
         <NavbarHeading>
           Chinese PhD Student Information System
           {' '}
