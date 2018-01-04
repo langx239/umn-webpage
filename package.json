@@ -20,5 +20,5 @@
     "eject": "react-scripts eject",
     "parse-csv": "node src/csv-to-json.js"
   },
-  "homepage": "https://blakegong.github.io/umn-phd-info-system"
+  "homepage": "https://langx239.github.io/umn-webpage"
 }
