@@ -15,7 +15,7 @@ const Nav = ({ updateYear, years }) => (
     <div style={{ margin: '0 auto', maxWidth: 960 }}>
       <NavbarGroup>
         <NavbarHeading className="navbar-heading">
-          Chinese PhD Students Information System
+          PhD Students Information System
           {' '}
         </NavbarHeading>
       </NavbarGroup>
