@@ -132,9 +132,6 @@
       "Equity Dest Quant, J.P. Morgan",
       "Equity Dest Quant, J.P. Morgan",
       "Nanjing University"
-    ],
-    [
-      ""
     ]
   ],
   "errors": [],
@@ -143,6 +140,6 @@
     "linebreak": "\r\n",
     "aborted": false,
     "truncated": false,
-    "cursor": 1700
+    "cursor": 1698
   }
 }

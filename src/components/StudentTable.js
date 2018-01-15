@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
 const StudentTable = ({ dataList, year }) => {
-  const headers = dataList[0];
-  const studentData = dataList.slice(1);
-  const filteredStudentData = year ? studentData.filter(s => s[0] === year) : studentData;
+  const headers = dataList[0]
+  const studentData = dataList.slice(1)
+  const filteredStudentData = year ? studentData.filter(s => s[0] === year) : studentData
 
   return (
     <table className="pt-table pt-interactive" style={{ minWidth: '100%' }}>
@@ -16,7 +16,7 @@ const StudentTable = ({ dataList, year }) => {
         ))}
       </tbody>
     </table>
-  );
-};
+  )
+}
 
-export default StudentTable;
+export default StudentTable
