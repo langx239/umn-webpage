@@ -1,6 +1,10 @@
-const fs = require('fs');
-const Papa = require('papaparse');
+const fs = require('fs')
+const Papa = require('papaparse')
 
-const rawCsv = fs.readFileSync('src/data/student_list.csv', 'utf8');
+const files = ['student_list', 'graduate_student_list']
 
-fs.writeFileSync('src/data/student_list.json', JSON.stringify(Papa.parse(rawCsv), null, '  '));
+files.forEach(file => {
+  const rawCsv = fs.readFileSync('src/data/' + file + '.csv', 'utf8')
+
+  fs.writeFileSync('src/data/' + file + '.json', JSON.stringify(Papa.parse(rawCsv), null, '  '))
+})
