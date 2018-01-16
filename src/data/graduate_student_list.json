@@ -29,6 +29,13 @@
       "Fudan University"
     ],
     [
+      "2016",
+      "Yang Yang",
+      "Data Scientist, Apple",
+      "Data Scientist, Apple",
+      "Beloit College"
+    ],
+    [
       "2015",
       "Qi Yan",
       "Senior Consultant, Travelers Insurance",
@@ -58,24 +65,10 @@
     ],
     [
       "2014",
-      "Xin Zhang",
-      "AP, Florida State University",
-      "AP, Florida State University",
+      "Gang Cheng",
+      "Senior Consultant, Travelers Insurance",
+      "Associate, Travelers",
       "USTC"
-    ],
-    [
-      "2014",
-      "Wei Qian",
-      "AP, Rochester Institute of Technology",
-      "AP, Rochester Institute of Technology",
-      "Peking University"
-    ],
-    [
-      "2014",
-      "YunZhang Zhu",
-      "AP, Ohio State University",
-      "AP, Ohio State University",
-      "Tsinghua University"
     ],
     [
       "2014",
@@ -86,10 +79,24 @@
     ],
     [
       "2014",
-      "Gang Cheng",
-      "Senior Consultant, Travelers Insurance",
-      "Associate, Travelers",
+      "Wei Qian",
+      "AP, Rochester Institute of Technology",
+      "AP, Rochester Institute of Technology",
+      "Peking University"
+    ],
+    [
+      "2014",
+      "Xin Zhang",
+      "AP, Florida State University",
+      "AP, Florida State University",
       "USTC"
+    ],
+    [
+      "2014",
+      "YunZhang Zhu",
+      "AP, Ohio State University",
+      "AP, Ohio State University",
+      "Tsinghua University"
     ],
     [
       "2013",
@@ -121,20 +128,17 @@
     ],
     [
       "2012",
-      "Zhihua Su",
-      "AP, University of Florida",
-      "AP, University of Florida",
-      "Fudan University"
-    ],
-    [
-      "2012",
       "Xing Chen",
       "Equity Dest Quant, J.P. Morgan",
       "Equity Dest Quant, J.P. Morgan",
       "Nanjing University"
     ],
     [
-      ""
+      "2012",
+      "Zhihua Su",
+      "AP, University of Florida",
+      "AP, University of Florida",
+      "Fudan University"
     ]
   ],
   "errors": [],
@@ -143,6 +147,6 @@
     "linebreak": "\r\n",
     "aborted": false,
     "truncated": false,
-    "cursor": 1700
+    "cursor": 1777
   }
 }
