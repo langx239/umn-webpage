@@ -36,7 +36,7 @@ class App extends Component {
             <StudentTable dataList={data[dataListName]} year={this.state.year} />
           </div>
           <div style={{ marginTop: 20, textAlign: 'center' }}>
-            <b>Disclaimer:</b> This page is maintained by students of statistics department at the University of Minnesota. The only purpose of this page is to help the
+            <b>Disclaimer:</b> This page is maintained by students of School of Statistics, University of Minnesota. The only purpose of this page is to help the
             communications among students. For any questions, please contact Community.umnstatsphd@gmail.com.
           </div>
         </div>

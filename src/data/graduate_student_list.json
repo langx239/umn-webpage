@@ -47,7 +47,7 @@
       "Yi Yang",
       "AP, McGill University",
       "AP, McGill University",
-      ""
+      " SiChuan University"
     ],
     [
       "2015",
@@ -127,9 +127,6 @@
       "Peking University"
     ],
     [
-      "<<<<<<< HEAD"
-    ],
-    [
       "2012",
       "Xing Chen",
       "Equity Dest Quant, J.P. Morgan",
@@ -142,29 +139,6 @@
       "AP, University of Florida",
       "AP, University of Florida",
       "Fudan University"
-    ],
-    [
-      "======="
-    ],
-    [
-      "2012",
-      "Zhihua Su",
-      "AP, University of Florida",
-      "AP, University of Florida",
-      "Fudan University"
-    ],
-    [
-      "2012",
-      "Xing Chen",
-      "Equity Dest Quant, J.P. Morgan",
-      "Equity Dest Quant, J.P. Morgan",
-      "Nanjing University"
-    ],
-    [
-      ">>>>>>> b6daaf4a39e0ac9ec52fda53ecf57f925cdc586f"
-    ],
-    [
-      ""
     ]
   ],
   "errors": [],
@@ -173,6 +147,6 @@
     "linebreak": "\r\n",
     "aborted": false,
     "truncated": false,
-    "cursor": 2042
+    "cursor": 1796
   }
 }
