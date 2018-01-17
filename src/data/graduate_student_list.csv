@@ -4,7 +4,7 @@ Grad Year,Name,First Position,Current Position,Undergrad School
 2016,Bo Peng,"Data Scientist, Adobe","Data Scientist, Adobe",Fudan University
 2016,Yang Yang,"Data Scientist, Apple","Data Scientist, Apple",Beloit College
 2015,Qi Yan,"Senior Consultant, Travelers Insurance","Senior Consultant, Travelers Insurance",USTC
-2015,Yi Yang,"AP, McGill University","AP, McGill University",
+2015,Yi Yang,"AP, McGill University","AP, McGill University", SiChuan University
 2015,Yiping Yuan,"Data Scientist, KPMG","Machine Learning engineer, LinkedIn",Tsinghua University
 2015,Ying Lu,"Data Scientist, Amazon","Data Scientist, Google",Fudan University
 2014,Gang Cheng,"Senior Consultant, Travelers Insurance","Associate, Travelers",USTC
@@ -16,10 +16,5 @@ Grad Year,Name,First Position,Current Position,Undergrad School
 2013,LingZhou Xue,"AP, Pennsylvania State University","AP, Pennsylvania State University",Peking University
 2013,Qing Mai,"AP, Florida State University","AP, Florida State University",Nankai Univeristy
 2013,Shanshan Ding,"AP, University of Delaware","AP, University of Delaware",Peking University
-<<<<<<< HEAD
 2012,Xing Chen,"Equity Dest Quant, J.P. Morgan","Equity Dest Quant, J.P. Morgan",Nanjing University
 2012,Zhihua Su,"AP, University of Florida","AP, University of Florida",Fudan University
-=======
-2012,Zhihua Su,"AP, University of Florida","AP, University of Florida",Fudan University
-2012,Xing Chen,"Equity Dest Quant, J.P. Morgan","Equity Dest Quant, J.P. Morgan",Nanjing University
->>>>>>> b6daaf4a39e0ac9ec52fda53ecf57f925cdc586f
