@@ -11,8 +11,6 @@ import {
   Position
 } from '@blueprintjs/core'
 
-import './Nav.css'
-
 const YearMenu = ({ updateYear, years }) => (
   <Menu>
     <MenuItem onClick={() => updateYear(undefined)} text="All years" />

@@ -127,6 +127,9 @@
       "Peking University"
     ],
     [
+      "<<<<<<< HEAD"
+    ],
+    [
       "2012",
       "Xing Chen",
       "Equity Dest Quant, J.P. Morgan",
@@ -139,6 +142,29 @@
       "AP, University of Florida",
       "AP, University of Florida",
       "Fudan University"
+    ],
+    [
+      "======="
+    ],
+    [
+      "2012",
+      "Zhihua Su",
+      "AP, University of Florida",
+      "AP, University of Florida",
+      "Fudan University"
+    ],
+    [
+      "2012",
+      "Xing Chen",
+      "Equity Dest Quant, J.P. Morgan",
+      "Equity Dest Quant, J.P. Morgan",
+      "Nanjing University"
+    ],
+    [
+      ">>>>>>> b6daaf4a39e0ac9ec52fda53ecf57f925cdc586f"
+    ],
+    [
+      ""
     ]
   ],
   "errors": [],
@@ -147,6 +173,6 @@
     "linebreak": "\r\n",
     "aborted": false,
     "truncated": false,
-    "cursor": 1777
+    "cursor": 2042
   }
 }
