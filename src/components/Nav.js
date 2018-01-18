@@ -20,11 +20,11 @@ const YearMenu = ({ updateYear, years }) => (
 
 const Nav = ({ updateDataSource, updateYear, years }) => (
   <Navbar className="pt-fixed-top pt-dark">
-    <div style={{ margin: '0 auto', maxWidth: 1080 }}>
+    <div style={{ margin: '0 auto', maxWidth: 1080}}>
       <NavbarGroup>
-        <NavbarHeading>PhD Students Information System </NavbarHeading>
+        <NavbarHeading>PhD Students Infomation System </NavbarHeading>
       </NavbarGroup>
-      <NavbarGroup align="right">
+      <NavbarGroup>
         <Button text="Current Students" onClick={() => updateDataSource('current')} className="pt-minimal" />
         <Button text="Alumni" onClick={() => updateDataSource('graduate')} className="pt-minimal" />
         <NavbarDivider />
