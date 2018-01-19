@@ -23,7 +23,7 @@ class Nav extends Component {
     const { updateDataSource, updateYear, years } = this.props
 
     return (
-      <Navbar className="pt-fixed-top pt-dark">
+      <Navbar className="pt-fixed-top pt-dark" style={{ height: 'auto' }}>
         <div style={{ margin: '0 auto', maxWidth: 1080 }}>
           <NavbarGroup>
             <NavbarHeading>PhD Students Infomation System</NavbarHeading>
