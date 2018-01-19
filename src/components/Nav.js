@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import {
   Button,
   Menu,
@@ -18,32 +18,28 @@ const YearMenu = ({ updateYear, years }) => (
   </Menu>
 )
 
-const Nav = ({ updateDataSource, updateYear, years }) => {
-  const isSmallScreen = window.innerWidth < 600
+class Nav extends Component {
+  render() {
+    const { updateDataSource, updateYear, years } = this.props
 
-  return (
-    <Navbar className="pt-fixed-top pt-dark">
-      <div style={{ margin: '0 auto', maxWidth: 1080 }}>
-        <NavbarGroup>
-          <NavbarHeading>PhD Students {isSmallScreen ? 'Info' : 'Infomation'} System</NavbarHeading>
-        </NavbarGroup>
-        <NavbarGroup align="right">
-          <Button
-            text={isSmallScreen ? 'Current' : 'Current Students'}
-            onClick={() => updateDataSource('current')}
-            className="pt-minimal"
-          />
-          <Button text="Alumni" onClick={() => updateDataSource('graduate')} className="pt-minimal" />
-          {!isSmallScreen && <NavbarDivider />}
-          {!isSmallScreen && (
+    return (
+      <Navbar className="pt-fixed-top pt-dark">
+        <div style={{ margin: '0 auto', maxWidth: 1080 }}>
+          <NavbarGroup>
+            <NavbarHeading>PhD Students Infomation System</NavbarHeading>
+          </NavbarGroup>
+          <NavbarGroup align="right">
+            <Button text="Current Students" onClick={() => updateDataSource('current')} className="pt-minimal" />
+            <Button text="Alumni" onClick={() => updateDataSource('graduate')} className="pt-minimal" />
+            <NavbarDivider />
             <Popover content={<YearMenu updateYear={updateYear} years={years} />} position={Position.BOTTOM}>
               <Button rightIconName="caret-down" text="Year" />
             </Popover>
-          )}
-        </NavbarGroup>
-      </div>
-    </Navbar>
-  )
+          </NavbarGroup>
+        </div>
+      </Navbar>
+    )
+  }
 }
 
 export default Nav
